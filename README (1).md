@@ -10,7 +10,7 @@ A full-stack healthcare management platform built as a single deployable HTML fi
 
 ## 🌐 Live Demo
 
-Deployed via GitHub Pages: **[https://varadsapkal.github.io/carepath-ai](https://varadsapkal.github.io/carepath-ai)**
+Deployed via GitHub Pages: **[https://varadsapkal.github.io/carepath-ai](https://carepathai.netlify.app/)**
 
 ---
 
