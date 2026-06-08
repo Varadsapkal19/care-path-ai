@@ -38,7 +38,7 @@ Deployed via GitHub Pages: **[https://varadsapkal.github.io/carepath-ai](https:/
 1. Fork this repository
 2. Go to **Settings → Pages**
 3. Set source to `main` branch, `/ (root)` folder
-4. Your site will be live at `https://yourusername.github.io/carepath-ai`
+4. Your site will be live at `https://carepathai.netlify.app/`
 
 ### Option 2 — Run Locally
 Just open `index.html` in any modern browser. No build step, no dependencies, no server needed.
