@@ -50,13 +50,12 @@ Drag & drop `index.html` at [netlify.com/drop](https://app.netlify.com/drop) for
 
 ## 🔑 Login Credentials
 
-| Role | Email | Password |
-|---|---|---|
-| Admin | admin@carepath.ai | Lucifer@19 |
-| Physician | physician@carepath.ai | Lucifer@19 |
-| Nurse | nurse@carepath.ai | Lucifer@19 |
-| Coordinator | coordinator@carepath.ai | Lucifer@19 |
-
+| Role | Email |
+|---|---|
+| Admin | admin@carepath.ai | 
+| Physician | physician@carepath.ai | 
+| Nurse | nurse@carepath.ai | 
+| Coordinator | coordinator@carepath.ai | 
 ---
 
 ## 🤖 AI Setup (Required for AI features)
